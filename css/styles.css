@@ -64,8 +64,20 @@
     background-color: #555;
     color: white;
   }
-  .s{
+  .bio {
     font-family: 'Slabo 27px', serif;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    
+    
+   
+  }
+  .bio img{
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
   }
   /* .pic{
     padding-left: 10%;
