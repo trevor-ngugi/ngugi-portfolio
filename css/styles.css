@@ -64,21 +64,30 @@
     background-color: #555;
     color: white;
   }
+  /* bio styles */
   .bio {
     font-family: 'Slabo 27px', serif;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
+    color: whitesmoke;
+    text-align: center;
+    font-size:150%;
     
     
    
   }
-  .bio img{
+  .bio img {
     border-radius: 50%;
     display: block;
     margin: 0 auto;
   }
+  .projects{
+    background-color: #C62C3C;
+    color: ivory;
+  }
+  
   /* .pic{
     padding-left: 10%;
     width: 200px;
