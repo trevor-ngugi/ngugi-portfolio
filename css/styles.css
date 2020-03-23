@@ -62,6 +62,17 @@
   .projects{
     background-color: #C62C3C;
     color: ivory;
+    padding-bottom:5%;
+  }
+  .projects h3{
+    text-align: center;
+    color: ivory;
+  }
+  .projects img{
+    display: block;
+margin-left: auto;
+margin-right: auto;
+;
   }
 
   .contact h1{
@@ -71,7 +82,15 @@
     padding-left: 20%;
     padding-bottom: 20%;
   }
-  
+  .responsive{
+    width: 100%;
+    
+    height: auto;
+  }
+  footer {
+    text-align: center;
+    display: block;
+  }
   /* .pic{
     padding-left: 10%;
     width: 200px;
